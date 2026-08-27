@@ -1,7 +1,7 @@
 # Rolling_Thunder
 
 Rolling Thunder Intelligence Analysis
-A semantic‑retrieval system for analysing declassified CIA, JCS, SNIE and OSD documents from the Vietnam War (1965–1967).
+A semantic‑retrieval system for analysing declassified CIA, JCS, SNIE and OSD documents from the Vietnam War (1965–1968).
 
 Overview
 This project applies modern NLP methods to a curated corpus of declassified U.S. intelligence and military documents relating to the Rolling Thunder bombing campaign.
