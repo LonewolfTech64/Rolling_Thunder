@@ -1,0 +1,1286 @@
+{
+  "CIA_1965_055_Intelligence_Memorandum_Kosygin_Delegation": {
+    "source": "CIA",
+    "type": "intelligence_memo",
+    "date": "1965-02-01",
+    "tone": "analytical",
+    "institutional_bias": [
+      "CIA_geopolitical_caution",
+      "CIA_escalation_concern"
+    ],
+    "operational_bias": [
+      "anti_escalation",
+      "concern_about_soviet_military_support"
+    ],
+    "rhetorical_bias": [
+      "analytical_caution",
+      "strategic_ambiguity",
+      "pessimistic_assessment"
+    ],
+    "topic_bias": [
+      "soviet_diplomacy",
+      "soviet_military_aid",
+      "sino_soviet_relations",
+      "escalation_risk"
+    ]
+  },
+  "CIA_1965_158_OCI_Memo_Hanoi_Peiping_Negotiations": {
+    "source": "CIA",
+    "type": "intelligence_memo",
+    "date": "1965-03-14",
+    "tone": "analytical",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "CIA_1965_184_Intelligence_Memorandum_Appraisal_Bombing_North_Vietnam": {
+    "source": "CIA",
+    "type": "intelligence_memo",
+    "date": "1965-10-27",
+    "tone": "analytical",
+    "institutional_bias": [
+      "CIA_analytical_economics",
+      "CIA_skepticism_bombing_effectiveness",
+      "CIA_focus_DRV_resilience"
+    ],
+    "operational_bias": [
+      "limited_bombing_effectiveness",
+      "localized_economic_strain",
+      "DRV_military_resilience",
+      "infiltration_continues"
+    ],
+    "rhetorical_bias": [
+      "analytical_detachment",
+      "quantitative_emphasis",
+      "strategic_caution",
+      "pessimistic_assessment"
+    ],
+    "topic_bias": [
+      "economic_damage",
+      "transport_networks",
+      "infrastructure_damage",
+      "DRV_political_reactions",
+      "military_effects",
+      "infiltration_logistics"
+    ]
+  },
+  "CIA_1965_222_Letter_McCone_to_President": {
+    "source": "CIA",
+    "type": "intelligence_memo",
+    "date": "1965-04-19",
+    "tone": "analytical",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "CIA_1965_268_Intelligence_Memorandum_The_Problem": {
+    "source": "CIA",
+    "type": "intelligence_memo",
+    "date": "1965-05-08",
+    "tone": "analytical",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "CIA_1965_286_Letter_Raborn_to_President_Johnson": {
+    "source": "CIA",
+    "type": "intelligence_memo",
+    "date": "1965-06-12",
+    "tone": "analytical",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "CIA_1966_157_Memorandum_Appraisal_First_Year_Bombing_North_Vietnam": {
+    "source": "CIA",
+    "type": "intelligence_memo",
+    "date": "1966-03-10",
+    "tone": "analytical",
+    "institutional_bias": [
+      "CIA_analytical_economics",
+      "CIA_skepticism_bombing_effectiveness",
+      "CIA_focus_DRV_resilience",
+      "CIA_logistics_emphasis"
+    ],
+    "operational_bias": [
+      "limited_bombing_effectiveness",
+      "DRV_resilience",
+      "infiltration_continues",
+      "labour_diversion_costs",
+      "foreign_aid_offsets_damage"
+    ],
+    "rhetorical_bias": [
+      "analytical_detachment",
+      "quantitative_emphasis",
+      "strategic_caution",
+      "pessimistic_assessment",
+      "restrained_language"
+    ],
+    "topic_bias": [
+      "economic_damage",
+      "transport_networks",
+      "infrastructure_damage",
+      "casualty_estimates",
+      "DRV_political_reactions",
+      "military_effects",
+      "infiltration_logistics",
+      "foreign_aid_support"
+    ]
+  },
+  "CIA_1966_219_Intelligence_Memorandum_Vietnamese_Communists_Will_to_Persist": {
+    "source": "CIA",
+    "type": "intelligence_memo",
+    "date": "1966-12-04",
+    "tone": "analytical",
+    "institutional_bias": [
+      "CIA_morale_focus",
+      "CIA_skepticism_bombing_effectiveness",
+      "CIA_resilience_emphasis",
+      "CIA_US_domestic_opinion_attention"
+    ],
+    "operational_bias": [
+      "DRV_persistence",
+      "VC_manpower_strain",
+      "strategy_costly_but_viable",
+      "not_winning_not_defeated",
+      "monitor_US_political_pressure"
+    ],
+    "rhetorical_bias": [
+      "analytical_caution",
+      "psychological_assessment",
+      "strategic_ambiguity",
+      "balanced_assessment",
+      "pessimistic_tone"
+    ],
+    "topic_bias": [
+      "Communist_morale",
+      "Communist_strategy",
+      "manpower_requirements",
+      "political_will",
+      "US_domestic_opinion",
+      "historical_parallels",
+      "strategy_change_conditions"
+    ]
+  },
+  "CIA_1966_248_Memorandum_Status_CIA_Counterinsurgency_Laos": {
+    "source": "CIA",
+    "type": "intelligence_memo",
+    "date": "1966-09-20",
+    "tone": "analytical",
+    "institutional_bias": [
+      "CIA_paramilitary_bias",
+      "CIA_cross_border_focus",
+      "CIA_logistics_emphasis",
+      "CIA_support_for_COINTactics",
+      "CIA_operational_optimism"
+    ],
+    "operational_bias": [
+      "COIN_expansion",
+      "paramilitary_effectiveness",
+      "air_support_dependency",
+      "interdiction_priority",
+      "DRV_invasion_threat",
+      "CIA_force_multiplier"
+    ],
+    "rhetorical_bias": [
+      "advocacy_tone",
+      "operational_confidence",
+      "threat_emphasis",
+      "bureaucratic_positioning",
+      "strategic_urgency"
+    ],
+    "topic_bias": [
+      "Laos_COINTactics",
+      "Ho_Chi_Minh_Trail",
+      "DRV_cross_border_operations",
+      "air_ground_coordination",
+      "tribal_paramilitary_forces",
+      "infiltration_logistics",
+      "program_funding_expansion"
+    ]
+  },
+  "CIA_1966_292_Intelligence_Memorandum_Effectiveness_Rolling_Thunder_1966": {
+    "source": "CIA",
+    "type": "intelligence_memo",
+    "date": "1966-12-15",
+    "tone": "analytical",
+    "institutional_bias": [
+      "CIA_skepticism_bombing_effectiveness",
+      "CIA_quantitative_assessment",
+      "CIA_focus_DRV_resilience",
+      "CIA_US_signalling_concern",
+      "CIA_political_will_analysis",
+      "CIA_intangible_effects_focus"
+    ],
+    "operational_bias": [
+      "declining_cost_effectiveness",
+      "air_power_cannot_stop_infiltration",
+      "DRV_resilience",
+      "foreign_aid_offsets_damage",
+      "bombing_hardens_leadership",
+      "termination_seen_as_weakness"
+    ],
+    "rhetorical_bias": [
+      "strategic_ambiguity",
+      "balanced_assessment",
+      "psychological_assessment",
+      "quantitative_emphasis",
+      "perception_concern"
+    ],
+    "topic_bias": [
+      "cost_effectiveness",
+      "infiltration_logistics",
+      "DRV_resilience",
+      "foreign_aid_support",
+      "enemy_morale",
+      "US_determination_signalling",
+      "propaganda_campaigns",
+      "leverage_pressure",
+      "third_country_reactions"
+    ]
+  },
+  "CIA_1967_180_Memorandum_Helms_to_President_Johnson_North_Vietnam_Bombing": {
+    "source": "CIA",
+    "type": "intelligence_memo",
+    "date": "1967-02-27",
+    "tone": "analytical",
+    "institutional_bias": [
+      "CIA_high_level_consensus",
+      "CIA_skepticism_bombing_effectiveness",
+      "CIA_leadership_vs_populace_distinction",
+      "CIA_political_will_focus",
+      "CIA_calibrated_pressure_preference"
+    ],
+    "operational_bias": [
+      "bombing_hardens_leadership",
+      "populace_morale_decline_not_decisive",
+      "bombing_suspension_seen_as_victory",
+      "southern_only_bombing_seen_as_victory",
+      "air_power_cannot_stop_infiltration",
+      "optimal_mixed_attack_pattern"
+    ],
+    "rhetorical_bias": [
+      "authoritative_tone",
+      "strategic_clarity",
+      "prescriptive_recommendations",
+      "psychological_assessment",
+      "misperception_risk_emphasis"
+    ],
+    "topic_bias": [
+      "bombing_morale_effects",
+      "leadership_political_will",
+      "infiltration_logistics",
+      "attack_pattern_analysis",
+      "US_action_perception",
+      "strategic_cost_benefit"
+    ]
+  },
+  "CIA_1967_254_Memorandum_Chief_of_Far_East_Division_Review_of_CIA_Vietnam": {
+    "source": "CIA",
+    "type": "intelligence_memo",
+    "date": "1967-08-25",
+    "tone": "analytical",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "CIA_1967_304_Memorandum_to_President_Johnson": {
+    "source": "CIA",
+    "type": "intelligence_memo",
+    "date": "1967-10-07",
+    "tone": "analytical",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "CIA_1967_Memorandum_CIA_to_President_Johnson_text_not_declassified": {
+    "source": "CIA",
+    "type": "intelligence_memo",
+    "date": "1967-00-00",
+    "tone": "analytical",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "CIA_1968_086_Memorandum_Smith_to_Helms": {
+    "source": "CIA",
+    "type": "intelligence_memo",
+    "date": "1968-03-00",
+    "tone": "analytical",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "CIA_1968_233a_Intelligence_Memorandum_Communist_uses_Cambodian_Territory": {
+    "source": "CIA",
+    "type": "intelligence_memo",
+    "date": "1968-07-00",
+    "tone": "analytical",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "CIA_1968_233_memomrandum_Smith_to_Rostow": {
+    "source": "CIA",
+    "type": "intelligence_memo",
+    "date": "1968-07-00",
+    "tone": "analytical",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "jcs-1965-01-29-memorandum-reprisal-significant-incidents-jcsm-70-65": {
+    "source": "JCS",
+    "type": "memorandum",
+    "date": "1965-01-29",
+    "tone": "directive",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "jcs-1965-02-11-memorandum-courses-of-action-sea-first-eight-weeks-jcsm-100-65": {
+    "source": "JCS",
+    "type": "policy_memo",
+    "date": "1965-02-11",
+    "tone": "directive",
+    "institutional_bias": [
+      "JCS_programmatic_escalation",
+      "JCS_confidence_in_controlled_pressure",
+      "JCS_deterrence_through_visibility",
+      "JCS_contingency_planning_for_China_USSR",
+      "JCS_readiness_for_major_war"
+    ],
+    "operational_bias": [
+      "graduated_air_strike_program",
+      "reprisal_justification_framework",
+      "large_air_deployment_WESTPAC",
+      "cross_border_operations_authorisation",
+      "integration_with_CINCPAC_plans"
+    ],
+    "rhetorical_bias": [
+      "probabilistic_enemy_reaction_assessment",
+      "emphasis_on_perseverance",
+      "framing_of_threats_as_manageable",
+      "logistics_as_enabler_not_constraint",
+      "strategic_scenario_modelling"
+    ],
+    "topic_bias": [
+      "initial_bombing_campaign",
+      "China_volunteer_risk",
+      "Soviet_SA2_support",
+      "Laos_and_mainland_SEA_defence",
+      "escalation_management"
+    ]
+  },
+  "jcs-1965-03-15-memorandum-proposals-settlement-sea-conflict-jcsm-180-65": {
+    "source": "JCS",
+    "type": "memorandum",
+    "date": "1965-03-15",
+    "tone": "directive",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "jcs-1965-03-20-memorandum-deployment-us-allied-combat-forces-vietnam-jcsm-204-65": {
+    "source": "JCS",
+    "type": "policy_memo",
+    "date": "1965-03-20",
+    "tone": "urgent",
+    "institutional_bias": [
+      "JCS_ground_force_escalation",
+      "JCS_fear_of_US_defeat",
+      "JCS_offensive_bias",
+      "JCS_linkage_US_credibility_to_RVN",
+      "JCS_multinational_force_preference"
+    ],
+    "operational_bias": [
+      "combat_role_for_US_forces",
+      "division_level_deployment",
+      "Marine_expansion_Da_Nang",
+      "ROK_division_insertion",
+      "freeing_ARVN_for_offensive_ops"
+    ],
+    "rhetorical_bias": [
+      "crisis_language",
+      "inevitability_of_defeat_without_escalation",
+      "moral_obligation_framing",
+      "emphasis_on_turning_the_tide",
+      "US_intent_signalling"
+    ],
+    "topic_bias": [
+      "counterinsurgency_escalation",
+      "Viet_Cong_growth",
+      "ARVN_political_weakening",
+      "US_defeat_consequences",
+      "force_structure_recommendations"
+    ]
+  },
+  "jcs-1965-06-11-memorandum-us-allied-troop-deployments-svn-jcsm-457-65": {
+    "source": "JCS",
+    "type": "policy_memo",
+    "date": "1965-06-11",
+    "tone": "urgent",
+    "institutional_bias": [
+      "JCS_threat_inflation",
+      "JCS_preference_for_large_force_build_up",
+      "JCS_view_of_enemy_offensive_threshold",
+      "JCS_alignment_with_MACV_assessments",
+      "JCS_support_for_intensified_bombing"
+    ],
+    "operational_bias": [
+      "rapid_force_build_up",
+      "offensive_capability_increase",
+      "integration_of_allied_forces",
+      "air_action_intensification_against_NVN",
+      "border_and_summer_campaign_focus"
+    ],
+    "rhetorical_bias": [
+      "enemy_capability_emphasis",
+      "ARVN_morale_concern",
+      "precarious_situation_framing",
+      "justification_of_large_deployments",
+      "linkage_of_ground_and_air_actions"
+    ],
+    "topic_bias": [
+      "VC_regimental_operations",
+      "PAVN_division_presence",
+      "summer_campaign_warning",
+      "force_ratio_deterioration",
+      "Rolling_Thunder_support_role"
+    ]
+  },
+  "jcs-1965-06-22-telegram-wheeler-to-westmoreland-jcs-2331-65": {
+    "source": "JCS",
+    "type": "telegram",
+    "date": "1965-06-22",
+    "tone": "directive",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "jcs-1965-11-12-memorandum-us-policy-actions-cambodian-support-vc-jcsm-812-65": {
+    "source": "JCS",
+    "type": "memorandum",
+    "date": "1965-11-12",
+    "tone": "directive",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "jcs-1966-01-08-memorandum-air-operations-against-nvn-jcsm-16-66": {
+    "source": "JCS",
+    "type": "policy_memo",
+    "date": "1966-01-08",
+    "tone": "directive",
+    "institutional_bias": [
+      "JCS_escalation_bias",
+      "JCS_bombing_primacy",
+      "JCS_leverage_through_force",
+      "JCS_skepticism_peace_pause",
+      "JCS_DRF_capability_focus"
+    ],
+    "operational_bias": [
+      "bombing_pause_danger",
+      "air_pressure_as_coercion",
+      "LOC_interdiction_priority",
+      "preemptive_resumption",
+      "negotiation_from_strength"
+    ],
+    "rhetorical_bias": [
+      "strategic_urgency",
+      "threat_of_enemy_advantage",
+      "resolve_emphasis",
+      "risk_of_misinterpretation",
+      "warning_against_protracted_negotiations"
+    ],
+    "topic_bias": [
+      "Rolling_Thunder_continuation",
+      "DRV_LOC_repair",
+      "air_defence_build_up",
+      "peace_offensive_risks",
+      "US_resolve_signalling"
+    ]
+  },
+  "jcs-1966-01-18-memorandum-air-operations-against-nvn-jcsm-41-66": {
+    "source": "JCS",
+    "type": "policy_memo",
+    "date": "1966-01-18",
+    "tone": "directive",
+    "institutional_bias": [
+      "JCS_maximalist_air_strategy",
+      "JCS_preference_sharp_blow",
+      "JCS_bombing_as_central_strategy",
+      "JCS_port_closure_support",
+      "JCS_risk_acceptance_for_effect"
+    ],
+    "operational_bias": [
+      "unrestricted_armed_reconnaissance",
+      "mining_ports_preference",
+      "POL_system_destruction",
+      "electric_power_targeting",
+      "SAM_and_airfield_neutralisation"
+    ],
+    "rhetorical_bias": [
+      "assertive_recommendations",
+      "critique_of_restraint",
+      "emphasis_on_military_efficiency",
+      "warning_against_gradualism",
+      "justification_of_civilian_damage_limits_only"
+    ],
+    "topic_bias": [
+      "Rolling_Thunder_expansion",
+      "LOC_interdiction",
+      "external_aid_denial",
+      "DRV_air_capability",
+      "sanctuary_reduction"
+    ]
+  },
+  "jcs-1966-02-03-memorandum-consequences-enclave-strategy-jcsm-76-66": {
+    "source": "JCS",
+    "type": "policy_memo",
+    "date": "1966-02-03",
+    "tone": "critical",
+    "institutional_bias": [
+      "JCS_rejection_of_defensive_enclave_strategy",
+      "JCS_commitment_to_offensive_operations",
+      "JCS_concern_for_GVN_viability",
+      "JCS_belief_in_air_operations_essential",
+      "JCS_scepticism_of_restraint_as_signal"
+    ],
+    "operational_bias": [
+      "opposition_to_force_concentration_in_enclaves",
+      "maintenance_of_countrywide_presence",
+      "continued_bombing_of_NVN",
+      "avoidance_of_ceding_countryside",
+      "prevention_of_VC_de_facto_control"
+    ],
+    "rhetorical_bias": [
+      "portrayal_of_enclave_strategy_as_defeat",
+      "warning_of_morale_and_political_collapse",
+      "critique_of_negotiation_from_weakness",
+      "emphasis_on_initiative_and_leverage",
+      "linkage_of_air_ops_to_ground_strategy"
+    ],
+    "topic_bias": [
+      "enclave_vs_balanced_strategy",
+      "GVN_political_structure",
+      "ChiCom_intervention_risk",
+      "air_operations_role",
+      "national_objectives_in_SVN"
+    ]
+  },
+  "jcs-1966-03-03-memorandum-measures-decrease-infiltration-cambodia-sea-locs-mekong-bassac-jcsm-141-66": {
+    "source": "JCS",
+    "type": "memorandum",
+    "date": "1966-03-03",
+    "tone": "directive",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "jcs-1966-03-26-memorandum-air-operations-against-nvn-jcsm-189-66": {
+    "source": "JCS",
+    "type": "policy_memo",
+    "date": "1966-03-26",
+    "tone": "directive",
+    "institutional_bias": [
+      "JCS_technical_targeting_focus",
+      "JCS_bombing_intensification",
+      "JCS_confidence_in_air_superiority",
+      "JCS_acceptance_of_US_losses",
+      "JCS_infrastructure_destruction_logic"
+    ],
+    "operational_bias": [
+      "controlled_armed_reconnaissance",
+      "rail_and_highway_interdiction",
+      "POL_strikes_central",
+      "industrial_targets_cement_steel",
+      "EW_GCI_radar_suppression"
+    ],
+    "rhetorical_bias": [
+      "operational_detail_emphasis",
+      "risk_but_acceptable_framing",
+      "focus_on_sortie_levels",
+      "incremental_programming_Rolling_Thunder_50",
+      "technical_rationalisation_of_targets"
+    ],
+    "topic_bias": [
+      "Rolling_Thunder_50",
+      "northeast_quadrant_operations",
+      "China_border_sensitivity",
+      "MIG_threat_assessment",
+      "POL_and_industry_as_force_multipliers"
+    ]
+  },
+  "jcs-1966-09-17-memorandum-proposal-barrier-systems-jcsm-594-66": {
+    "source": "JCS",
+    "type": "policy_memo",
+    "date": "1966-09-17",
+    "tone": "directive",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "jcs-1966-09-24-memorandum-cross-border-operations-jcsm-612-66": {
+    "source": "JCS",
+    "type": "memorandum",
+    "date": "1966-09-24",
+    "tone": "directive",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "jcs-1966-10-14-memorandum-actions-recommended-for-vietnam-jcsm-672-66": {
+    "source": "JCS",
+    "type": "policy_memo",
+    "date": "1966-10-14",
+    "tone": "strategic",
+    "institutional_bias": [
+      "JCS_disagreement_with_McNamara",
+      "JCS_rejection_of_bombing_pauses",
+      "JCS_long_war_preparation",
+      "JCS_bombing_as_trump_card",
+      "JCS_scepticism_about_negotiations"
+    ],
+    "operational_bias": [
+      "Rolling_Thunder_intensification",
+      "sanctuary_reduction_Hanoi_Haiphong",
+      "naval_surface_interdiction_support",
+      "barrier_support_with_reservations",
+      "pacification_under_MACV_preference"
+    ],
+    "rhetorical_bias": [
+      "direct_critique_of_civilian_leadership",
+      "resolve_and_determination_language",
+      "warning_against_peace_offensive_overreach",
+      "emphasis_on_military_successes",
+      "framing_bombing_as_leverage_not_concession"
+    ],
+    "topic_bias": [
+      "overall_Vietnam_strategy",
+      "force_levels_and_reserves",
+      "Rolling_Thunder_52_program",
+      "Manila_Conference_message",
+      "negotiation_posture"
+    ]
+  },
+  "jcs-1966-12-19-memorandum-actions-deal-vc-nva-use-cambodian-territory-jcsm-779-66": {
+    "source": "JCS",
+    "type": "memorandum",
+    "date": "1966-12-19",
+    "tone": "directive",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "jcs-1967-02-27-memorandum-settlement-of-conflict-in-vietnam-jcsm-107-67": {
+    "source": "JCS",
+    "type": "memorandum",
+    "date": "1967-02-27",
+    "tone": "directive",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "jcs-1967-09-08-memorandum-end-of-war-in-vietnam-and-aftermath-depuy-to-goodpaster": {
+    "source": "JCS",
+    "type": "memorandum",
+    "date": "1967-09-08",
+    "tone": "directive",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "jcs-1967-09-09-memorandum-attached-memorandum-cm-2630-67": {
+    "source": "UNKNOWN",
+    "type": "UNKNOWN",
+    "date": "UNKNOWN",
+    "tone": "UNKNOWN",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "jcs-1967-09-09-memorandum-attached-memorandum-cm-2630-67": {
+    "source": "JCS",
+    "type": "memorandum",
+    "date": "1967-09-09",
+    "tone": "directive",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "jcs-1968-01-29-memorandum-situation-at-khe-sanh-jcsm-63-68": {
+    "source": "JCS",
+    "type": "memorandum",
+    "date": "1968-01-29",
+    "tone": "directive",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "jcs-1968-03-30-memorandum-us-policy-for-laos-jcsm-195-68": {
+    "source": "JCS",
+    "type": "memorandum",
+    "date": "1968-03-30",
+    "tone": "directive",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "jcs-1968-05-29-memorandum-possible-courses-of-action-alternatives-vietnam-jcsm-343-68": {
+    "source": "JCS",
+    "type": "memorandum",
+    "date": "1968-05-29",
+    "tone": "directive",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "mcnamara_1965_0730_bombing_eval": {
+    "source": "OSD",
+    "type": "policy_memo",
+    "date": "1965-07-30",
+    "tone": "analytical",
+    "institutional_bias": [
+      "OSD_cost_effectiveness_focus",
+      "OSD_skepticism_about_bombing_leverage",
+      "OSD_emphasis_on_ground_force_requirements",
+      "OSD_attention_to_political_constraints",
+      "OSD_preference_for_measured_escalation"
+    ],
+    "operational_bias": [
+      "bombing_cannot_stop_infiltration",
+      "need_for_large_ground_force_buildup",
+      "DRV_resilience_under_air_attack",
+      "VC_growth_outpacing_ARVN_capacity",
+      "risk_of_US_defeat_without_escalation"
+    ],
+    "rhetorical_bias": [
+      "quantitative_assessment",
+      "strategic_caution",
+      "emphasis_on_costs_and_requirements",
+      "avoidance_of_overpromising_air_power",
+      "balanced_but_pessimistic_language"
+    ],
+    "topic_bias": [
+      "infiltration_logistics",
+      "force_structure_requirements",
+      "ARVN_capabilities",
+      "VC_growth",
+      "bombing_effectiveness",
+      "US_commitment_levels",
+      "political_constraints"
+    ]
+  },
+  "mcnamara_1967_0519_vietnam_actions": {
+    "source": "OSD",
+    "type": "policy_memo",
+    "date": "1967-05-19",
+    "tone": "analytical",
+    "institutional_bias": [
+      "OSD_preference_for_limited_bombing",
+      "OSD_emphasis_on_negotiation",
+      "OSD_concern_about_US_political_costs",
+      "OSD_skepticism_about_JCS_escalation",
+      "OSD_focus_on_sustainable_commitment"
+    ],
+    "operational_bias": [
+      "freeze_force_levels",
+      "limit_bombing_to_military_targets",
+      "avoid_Hanoi_Haiphong_strikes",
+      "seek_negotiated_settlement",
+      "reduce_US_casualty_exposure"
+    ],
+    "rhetorical_bias": [
+      "strategic_caution",
+      "emphasis_on_political_costs",
+      "concern_about_long_war_trajectory",
+      "balanced_assessment",
+      "avoidance_of_decisive_predictions"
+    ],
+    "topic_bias": [
+      "bombing_policy",
+      "force_levels",
+      "negotiation_strategy",
+      "US_domestic_constraints",
+      "long_war_risk",
+      "international_reactions",
+      "political_costs"
+    ]
+  },
+  "SNIE_1965_10-3-65_Communist_Reactions_to_Possible_US_Actions": {
+    "source": "SNIE",
+    "type": "national_intelligence_estimate",
+    "date": "1965-02-11",
+    "tone": "analytical",
+    "institutional_bias": [
+      "IC_escalation_risk_emphasis",
+      "IC_skepticism_about_coercive_bombing",
+      "IC_attention_to_Sino-Soviet_divergence",
+      "IC_focus_on_unintended_consequences"
+    ],
+    "operational_bias": [
+      "DRV_resilience_assumption",
+      "limited_effect_of_air_power",
+      "risk_of_Soviet_SA2_involvement",
+      "risk_of_Chinese_air_intervention",
+      "VC_continued_pressure_expected"
+    ],
+    "rhetorical_bias": [
+      "cautionary_language",
+      "emphasis_on_uncertainty",
+      "scenario_based_reasoning",
+      "warnings_about_miscalculation",
+      "balanced_multi-actor_assessment"
+    ],
+    "topic_bias": [
+      "DRV_reactions_to_bombing",
+      "Sino-Soviet_relations",
+      "air_defence_escalation",
+      "VC_strategy",
+      "international_reactions",
+      "risk_of_wider_war"
+    ]
+  },
+  "SNIE_1965_10-3-1-65_Communist_Reactions_to_US_Courses_of_Action": {
+    "source": "SNIE",
+    "type": "national_intelligence_estimate",
+    "date": "1965-02-18",
+    "tone": "analytical",
+    "institutional_bias": [
+      "IC_skepticism_about_bombing_leverage",
+      "IC_emphasis_on_Drv_long_war_strategy",
+      "IC_attention_to_Sino_Soviet_competition",
+      "IC_caution_about_unintended_escalation",
+      "IC_focus_on_multi_factor_reaction_models"
+    ],
+    "operational_bias": [
+      "DRV_expected_to_persevere_under_attack",
+      "VC_pressure_likely_to_continue",
+      "Chinese_support_without_direct_intervention",
+      "Soviet_cautious_support_for_air_defence",
+      "limited_effect_on_infiltration_capability"
+    ],
+    "rhetorical_bias": [
+      "hedging_and_uncertainty",
+      "scenario_based_reasoning",
+      "emphasis_on_multiple_interacting_variables",
+      "warnings_about_miscalculation",
+      "balanced_multi_actor_assessment"
+    ],
+    "topic_bias": [
+      "DRV_reactions_to_sustained_bombing",
+      "VC_strategy_and_morale",
+      "Chinese_intervention_thresholds",
+      "Soviet_air_defence_support",
+      "international_political_reactions",
+      "long_war_assumptions",
+      "effects_on_Drv_economy_and_industry"
+    ]
+  },
+  "SNIE_1965_10-65_Communist_Capabilities_and_Intentions_Laos_South_Vietnam": {
+    "source": "SNIE",
+    "type": "national_intelligence_estimate",
+    "date": "1965-02-04",
+    "tone": "analytical",
+    "institutional_bias": [
+      "IC_emphasis_on_capability_assessment",
+      "IC_caution_about_major_Communist_offensives",
+      "IC_attention_to_air_defence_buildup",
+      "IC_focus_onDRV_and_PL_incremental_strategy",
+      "IC_sensitivity_to_escalation_thresholds"
+    ],
+    "operational_bias": [
+      "assessment_of_limited_Communist_ground_movements",
+      "expectation_of_localised_offensives_in_Laos",
+      "VC_main_force_growth_recognition",
+      "DRV_support_to_VC_increasing",
+      "Chinese_air_defence_posturing_without_offensive_intent"
+    ],
+    "rhetorical_bias": [
+      "balanced_capability_language",
+      "emphasis_on_evidence_limitations",
+      "scenario_based_reasoning",
+      "cautious_projection_of_near_term_actions",
+      "avoidance_of_decisive_predictions"
+    ],
+    "topic_bias": [
+      "Laos_dry_season_operations",
+      "VC_main_force_development",
+      "DRV_support_to_South",
+      "Chinese_air_defence_buildup",
+      "infiltration_routes_and_logistics",
+      "RLG_positions_and_vulnerabilities",
+      "risk_of_US_retaliation_limiting_Communist_actions"
+    ]
+  },
+  "SNIE_1965_10-9-65_Communist_and_Free_World_Reactions_to_US_Course_of_Action": {
+    "source": "SNIE",
+    "type": "national_intelligence_estimate",
+    "date": "1965-10-09",
+    "tone": "analytical",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "SNIE_1965_10_10_65_Reactions_to_Certain_US_Courses_SE_Asia": {
+    "source": "SNIE",
+    "type": "national_intelligence_estimate",
+    "date": "1965-09-10",
+    "tone": "analytical",
+    "institutional_bias": [
+      "IC_escalation_risk_awareness",
+      "IC_sensitivity_to_Geneva_violations",
+      "IC_concern_about_allied_reactions",
+      "IC_focus_on_international_legitimacy",
+      "IC_caution_about_ground_intervention"
+    ],
+    "operational_bias": [
+      "expectation_of_broad_international_condemnation",
+      "anticipation_of_Lao_political_fragility",
+      "assessment_of_Thai_security_anxieties",
+      "prediction_of_Communist_harassment_not_major_offensives",
+      "risk_of_Chinese_countermeasures_in_northwest_Laos"
+    ],
+    "rhetorical_bias": [
+      "emphasis_on_unfavourable_reactions",
+      "stress_on_political_costs",
+      "warning_about_unintended_consequences",
+      "scenario_based_uncertainty",
+      "cautious_language_about_Peiping_intervention"
+    ],
+    "topic_bias": [
+      "Laos_Geneva_Accords",
+      "Route_9_barrier_concept",
+      "Thai_security_guarantees",
+      "Cambodian_neutrality",
+      "Pathet_Lao_capabilities",
+      "Chinese_border_posturing",
+      "Soviet_diplomatic_pressure",
+      "international_reactions_UN_and_allies"
+    ]
+  },
+  "SNIE_1965_10-11-65_Possible_Communist_Reactions_to_US_Course_of_Action": {
+    "source": "SNIE",
+    "type": "national_intelligence_estimate",
+    "date": "1965-09-22",
+    "tone": "analytical",
+    "institutional_bias": [
+      "IC_escalation_risk_emphasis",
+      "IC_skepticism_about_decisive_bombing_effects",
+      "IC_attention_to_Sino-Soviet_divergence",
+      "IC_focus_onDRV_morale_and_political_calculus",
+      "IC_caution_about_border_proximity"
+    ],
+    "operational_bias": [
+      "expectation_of_limited_initial_retaliation",
+      "risk_of_Chinese_air_intervention",
+      "DRV_air_defence_response",
+      "VC_sabotage_and_terrorism_increase",
+      "Soviet_pressure_for_negotiations",
+      "possibility_ofDRV_shift_to_political_strategy"
+    ],
+    "rhetorical_bias": [
+      "hedging_language",
+      "probabilistic_assessment",
+      "scenario_based_reasoning",
+      "emphasis_on_uncertainty_and_contingency",
+      "warnings_about_miscalculation_and_border_incidents"
+    ],
+    "topic_bias": [
+      "Hanoi-Haiphong_targeting",
+      "DRV_morale_and_strategy",
+      "Chinese_intervention_thresholds",
+      "Soviet_support_and_constraints",
+      "VC_capabilities_and_morale",
+      "air_defence_escalation",
+      "international_reactions",
+      "negotiation_possibilities"
+    ]
+  },
+  "SNIE_1965_11-11-65_Soviet_Attitudes_Toward_US": {
+    "source": "SNIE",
+    "type": "national_intelligence_estimate",
+    "date": "1965-05-26",
+    "tone": "analytical",
+    "institutional_bias": [
+      "IC_focus_on_Soviet_caution",
+      "IC_attention_to_Sino_Soviet_competition",
+      "IC_emphasis_on_USSR_risk_aversion",
+      "IC_assessment_of_Soviet_priority_shift",
+      "IC_sensitivity_to_global_diplomatic_context"
+    ],
+    "operational_bias": [
+      "expectation_of_limited_Soviet_military_involvement",
+      "anticipation_of_increased_Soviet_political_pressure",
+      "assessment_of_Soviet_support_for_Hanoi",
+      "avoidance_of_direct_US_confrontation",
+      "use_of_diplomatic_and_propaganda_tools_over_military_means"
+    ],
+    "rhetorical_bias": [
+      "cautious_language",
+      "emphasis_on_long_term_trends",
+      "balanced_assessment_of_Soviet_constraints",
+      "scenario_based_reasoning",
+      "avoidance_of_decisive_predictions"
+    ],
+    "topic_bias": [
+      "Soviet_foreign_policy_priorities",
+      "Sino_Soviet_relations",
+      "Vietnam_war_dynamics",
+      "US_Soviet_relations",
+      "Soviet_support_to_DRV",
+      "risk_of_escalation",
+      "global_Cold_War_context"
+    ]
+  },
+  "SNIE_1965_239_Special_Intelligence_Supplement_Appraisal_of_Bombing_of_North_Vietnam": {
+    "source": "SNIE",
+    "type": "special_intelligence_supplement",
+    "date": "1965-12-21",
+    "tone": "analytical",
+    "institutional_bias": [
+      "IC_quantitative_damage_assessment",
+      "IC_skepticism_about_bombing_effectiveness",
+      "IC_focus_on_DRV_logistical_resilience",
+      "IC_attention_to_foreign_aid_offsets",
+      "IC_emphasis_on_distribution_not_production_constraints"
+    ],
+    "operational_bias": [
+      "assessment_of_limited_effect_on_infiltration",
+      "recognition_ofDRV_adaptation_measures",
+      "expectation_of_continued_priority_traffic_flow",
+      "identification_of_transport_bottlenecks_but_not_system_failure",
+      "acknowledgement_of_increased_Chinese_and_Soviet_support"
+    ],
+    "rhetorical_bias": [
+      "quantitative_emphasis",
+      "technical_damage_description",
+      "cautious_language_about_effectiveness",
+      "avoidance_of_decisive_predictions",
+      "balanced_assessment_of_military_vs_economic_impacts"
+    ],
+    "topic_bias": [
+      "economic_damage",
+      "transport_network_disruption",
+      "industrial_output_constraints",
+      "foreign_aid_support",
+      "infiltration_logistics",
+      "SA2_and_air_defence_reactions",
+      "DRV_morale_and_political_resilience"
+    ]
+  },
+  "SNIE_1965_53-65a_Short_Term_Prospects_South_Vietnam_Dissent_INR": {
+    "source": "INR",
+    "type": "intelligence_dissent",
+    "date": "1965-02-04",
+    "tone": "analytical",
+    "institutional_bias": [
+      "INR_escalation_pessimism",
+      "INR_sensitivity_to_civilian_and_industrial_damage",
+      "INR_emphasis_on_political_costs_of_bombing",
+      "INR_focus_on_DRV_morale_resilience",
+      "INR_attention_to_Sino_Soviet_alignment_under_pressure"
+    ],
+    "operational_bias": [
+      "expectation_of_hardened_DRV_resistance",
+      "anticipation_of_increased_PAVN_ground_insertion",
+      "higher_probability_of_Chinese_air_intervention",
+      "expectation_of_Soviet_pressure_to_match_Chinese_support",
+      "assessment_that_bombing_would_reduce_negotiation_likelihood"
+    ],
+    "rhetorical_bias": [
+      "strongly_cautionary_language",
+      "emphasis_on_watershed_escalation",
+      "warnings_about_misinterpretation_and_backfire",
+      "assertive_challenge_to_main_SNIE_assumptions",
+      "focus_on_unintended_consequences"
+    ],
+    "topic_bias": [
+      "Hanoi_Haiphong_strikes",
+      "civilian_and_industrial_damage",
+      "DRV_political_calculus",
+      "Chinese_intervention_thresholds",
+      "Soviet_support_dynamics",
+      "VC_morale_and_reinforcement",
+      "negotiation_prospects_under_pressure"
+    ]
+  },
+  "SNIE_1965_53-65_Short_Term_Prospects_South_Vietnam": {
+    "source": "SNIE",
+    "type": "national_intelligence_estimate",
+    "date": "1965-02-04",
+    "tone": "analytical",
+    "institutional_bias": [
+      "IC_focus_on_political_fragility",
+      "IC_emphasis_on_factionalism_and_social_divisions",
+      "IC_attention_to_Buddhist_military_power_dynamics",
+      "IC_skepticism_about_US_leverage",
+      "IC_caution_about_urban_political_volatility"
+    ],
+    "operational_bias": [
+      "expectation_of_continued_political_instability",
+      "assessment_of_military_factionalism",
+      "anticipation_of_Buddhist_political_mobilisation",
+      "recognition_of_Communist_exploitation_of_turmoil",
+      "limited_effect_of_US_actions_on_internal_dynamics"
+    ],
+    "rhetorical_bias": [
+      "emphasis_on_uncertainty",
+      "balanced_assessment_of_competing_factions",
+      "scenario_based_reasoning",
+      "cautious_language_about_government_survival",
+      "avoidance_of_decisive_predictions"
+    ],
+    "topic_bias": [
+      "GVN_political_structure",
+      "Buddhist_movement_influence",
+      "military_factionalism",
+      "urban_vs_rural_political_dynamics",
+      "anti_US_sentiment",
+      "Communist_penetration_risks",
+      "prospects_for_government_stability"
+    ]
+  },
+  "SNIE_1966_10-1-66_Possible_Effects_US_Courses_of_Action_on_DRV_Capability": {
+    "source": "SNIE",
+    "type": "national_intelligence_estimate",
+    "date": "1966-02-04",
+    "tone": "analytical",
+    "institutional_bias": [
+      "IC_logistics_emphasis",
+      "IC_skepticism_about_interdiction_effectiveness",
+      "IC_focus_onDRV_adaptation_capacity",
+      "IC_attention_to_cumulative_strain_not_system_collapse",
+      "IC_caution_about_bombing_as_coercive_tool"
+    ],
+    "operational_bias": [
+      "expectation_ofDRV_ability_to_move_more_than_1965_levels",
+      "recognition_of_limited_effect_on_infiltration",
+      "assessment_of_constraints_on_PAVN_expansion",
+      "importance_of_port_closure_in_supply_reduction",
+      "identification_of_distribution_bottlenecks"
+    ],
+    "rhetorical_bias": [
+      "quantitative_assessment",
+      "scenario_based_reasoning",
+      "cautious_language_about_effectiveness",
+      "emphasis_on_uncertainty_and_limits",
+      "avoidance_of_decisive_predictions"
+    ],
+    "topic_bias": [
+      "infiltration_logistics",
+      "DRV_support_to_South",
+      "effects_of_bombing_on_supply_routes",
+      "port_closure_impact",
+      "POL_and_power_targeting",
+      "PAVN_force_structure_limits"
+    ]
+  },
+  "SNIE_1966_11-16-66_Current_Soviet_Attitudes_Toward_US": {
+    "source": "SNIE",
+    "type": "national_intelligence_estimate",
+    "date": "1966-11-16",
+    "tone": "analytical",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "SNIE_1966_13-66_Current_Chinese_Communist_Intentions_in_Vietnam": {
+    "source": "SNIE",
+    "type": "national_intelligence_estimate",
+    "date": "1966-00-00",
+    "tone": "analytical",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "SNIE_1966_53-66_Problems_of_Political_Development_South_Vietnam": {
+    "source": "SNIE",
+    "type": "national_intelligence_estimate",
+    "date": "1966-00-00",
+    "tone": "analytical",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "SNIE_1967_11-11-67_Soviet_Attitudes_and_Intentions_Toward_Vietnam_War": {
+    "source": "SNIE",
+    "type": "national_intelligence_estimate",
+    "date": "1967-11-11",
+    "tone": "analytical",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "SNIE_1967_14-3-67_Capabilities_of_Vietnamese_Communists_for_Fighting_in_South_Vietnam": {
+    "source": "SNIE",
+    "type": "national_intelligence_estimate",
+    "date": "1967-03-14",
+    "tone": "analytical",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "SNIE_1967_57-1-67_Significance_of_Cambodia_to_Communist_War_Effort": {
+    "source": "SNIE",
+    "type": "national_intelligence_estimate",
+    "date": "1967-01-00",
+    "tone": "analytical",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "SNIE_1967_57-67_Significance_of_Cambodia_to_Communist_War_Effort": {
+    "source": "SNIE",
+    "type": "national_intelligence_estimate",
+    "date": "1967-00-00",
+    "tone": "analytical",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  },
+  "SNIE_1968_58-68_Communist_Intentions_in_Laos": {
+    "source": "SNIE",
+    "type": "national_intelligence_estimate",
+    "date": "1968-00-00",
+    "tone": "analytical",
+    "institutional_bias": [],
+    "operational_bias": [],
+    "rhetorical_bias": [],
+    "topic_bias": []
+  }
+}
